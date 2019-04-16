@@ -1,0 +1,27 @@
+# local package
+-e .
+
+# external requirements
+autopep8>=1.4.3
+awscli>=1.16
+click>=7.0
+coverage>=4.5.2
+cufflinks-py>=0.13.0
+fbprophet>=0.4
+flake8>=3.7.7
+jupyter==1.0.0
+matplotlib==3.0.2
+numpy==1.16.2
+pandas==0.24.1
+plotly>=3.6.1
+python-dateutil>=2.8.0
+python-dotenv>=0.8.2
+python>=3.5
+rope>=0.12.0
+scikit-learn==0.20.2
+scipy==1.2.1
+seaborn==0.9.0
+sphinx==1.8.4
+statsmodels>=0.9.0
+tqdm>=4.31.1
+tzlocal>=1.5.1
